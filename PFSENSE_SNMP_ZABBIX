@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T11:01:53.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AINlOztYwAXnQKGIAdEQ" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T12:09:02.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lQYCFkKBxXab3cqxvHp1" version="21.1.5" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="2206" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -17,12 +17,12 @@
           <mxGeometry x="305" y="352.44" width="146.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0zKfQ6camjP8z-87tEv7-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Configure SNMP Community on the Host Monitored (eg: pfsense) and add the host in NMS (Zabbix).&lt;br&gt;Configure Frequency of SNMP Polls.&amp;nbsp;&lt;br&gt;Identify the Devices/Components to Monitor on the pfsense eg: IPSec Tunnels&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1020" width="870" height="100" as="geometry" />
+          <mxGeometry x="70" y="990" width="870" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0zKfQ6camjP8z-87tEv7-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="0zKfQ6camjP8z-87tEv7-3" target="0zKfQ6camjP8z-87tEv7-19">
+        <mxCell id="0zKfQ6camjP8z-87tEv7-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="725" y="790.44" as="sourcePoint" />
-            <mxPoint x="1310.7850000000003" y="381.9372000000001" as="targetPoint" />
+            <mxPoint x="530" y="380" as="sourcePoint" />
+            <mxPoint x="1270" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0zKfQ6camjP8z-87tEv7-10" value="SNMP Protocol Port: 161/162" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;fontStyle=1" vertex="1" connectable="0" parent="0zKfQ6camjP8z-87tEv7-9">
